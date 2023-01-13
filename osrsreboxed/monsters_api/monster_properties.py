@@ -47,7 +47,7 @@ class MonsterProperties:
     size: int = None
     hitpoints: int = None
     max_hit: int = None
-    attack_type: str = None
+    attack_type: List = None
     attack_speed: int = None
     aggressive: bool = None
     poisonous: bool = None
